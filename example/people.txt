@@ -1,4 +1,4 @@
-people=peopleID			profile=peopleID
+people=peopleID				profile=peopleID
 ID	苗字	名前	familyID	peopleID	課金する
 peopleID	familyName	name	familyID	peopleID	isCharge
 serial	string	string	number	ref=1	bool

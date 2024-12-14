@@ -1,0 +1,6 @@
+family=familyID	
+ID	名前
+familyID	familyName
+serial	string
+1	磯野
+2	伊佐坂

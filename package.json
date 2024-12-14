@@ -1,0 +1,14 @@
+{
+  "name": "generate-upsert-postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "author": "tashxii",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
